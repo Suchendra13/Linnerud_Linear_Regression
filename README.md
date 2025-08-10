@@ -22,7 +22,7 @@ The project utilizes the `Linnerud dataset`, which is a multi-variate dataset co
 2. Waist
 3. Pulse
 
-# ⚙️ Project Workflow
+## Project Workflow
 **Data Loading and Preparation:**
 
 The Linnerud dataset is loaded from `sklearn.datasets`.
@@ -65,7 +65,7 @@ An Actual vs. Predicted scatter plot is created for the 'Weight' target to visua
 
 A Residuals Plot is generated to check for patterns in the model's errors.
 
-## 🛠️ Libraries Used
+## Libraries Used
 * `pandas`
 * `numpy`
 * `matplotlib.pyplot`
