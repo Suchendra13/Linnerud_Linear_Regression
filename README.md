@@ -18,9 +18,9 @@ The project utilizes the `Linnerud dataset`, which is a multi-variate dataset co
 3. Jumps: Number of jumping jacks
 
 * **Targets (y - Physiological Data):**
-1.Weight
-2.Waist
-3.Pulse
+1. Weight
+2. Waist
+3. Pulse
 
 # ⚙️ Project Workflow
 **Data Loading and Preparation:**
@@ -70,7 +70,7 @@ A Residuals Plot is generated to check for patterns in the model's errors.
 * `numpy`
 * `matplotlib.pyplot`
 * `seaborn`
-* `sklearn` (specifically `datasets`, `model_selection`, `preprocessing`, `decomposition`, `linear_model`, `metrics`)
+* `sklearn` (specifically `datasets`, `model_selection`, `linear_model`, `metrics`)
   
 ## How to Run
 1.  **Clone the repository** (if you haven't already):
